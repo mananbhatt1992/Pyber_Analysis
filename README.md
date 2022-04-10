@@ -36,5 +36,14 @@ The purpose is to analyse the rida and city data files and provide a summary of 
 
 
 
+## Recommendations
 
+From the summary we can see that the average fare per driver for Urban cities is low compared to suburban and rural cities :
 
+![image](https://user-images.githubusercontent.com/99941484/162636534-57f9d65a-6ebe-420f-a39b-7e154ab3951b.png)
+
+1.) Provide Urban drivers extra comission for late night pickups and drop.
+
+2.) Allow urban drivers to provide outstation services as per their convenience. (same model can be applied for suburban and rural city types)
+
+3.) In rural and suburban areas though the average fare per driver is more compared to urban areas but the no. of rides and total drivers are less compared to urabn cities. So we can introduce a discount scheme for the customers and an incentive scheme for ther driver based on the number rides completed respectively. This will help increase the number rides especially in the rural areas where the number of rides are 125 comapred to urban's 1625
